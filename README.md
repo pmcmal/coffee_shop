@@ -1,2 +1,2 @@
 # coffee_shop
-An example coffee shop webpage
+A nice online store template with a touch of tailwind CSS
